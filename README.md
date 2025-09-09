@@ -1,1 +1,2 @@
-This is SQL Tutorial
+This is SQL Tutorial.
+
